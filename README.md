@@ -8,11 +8,9 @@
 
 ## 🏆 Achievement
 
-**🥉 Honorable Mention** - [Superteam Earn](https://earn.superteam.fun/) - Recognized for innovative time-locked wallet solution on Solana blockchain.
+**🥉 Honorable Mention** - [Superteam Earn] - Recognized for innovative time-locked wallet solution on Solana blockchain.
 
 A comprehensive Solana library for creating time-locked wallets that allows users to lock SOL or SPL tokens with a predefined unlock timestamp. Perfect for vesting schedules, savings plans, or any time-based asset management.
-
-![alt text](image.png)
 
 ## 🌟 Features
 
